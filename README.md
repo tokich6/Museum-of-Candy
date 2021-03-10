@@ -1,3 +1,3 @@
 # Museum-of-Candy
 
-Bootstrap exercise
+Bootstrap landing page
